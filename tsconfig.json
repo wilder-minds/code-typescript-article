@@ -1,0 +1,9 @@
+{
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules/"],
+  "compilerOptions": {
+    "target": "ES2015",
+    "strict": true,
+    "moduleResolution": "node"
+  }
+}
